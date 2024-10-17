@@ -1,2 +1,4 @@
-# Nord-Theme---zenbrowser
-Nord theme for Zen Browser
+<div align=center>
+  <h1>Nord theme for Zen Browser</h1>
+  <img src="">
+</div>
